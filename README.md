@@ -1,10 +1,10 @@
 # Quick start (Linux / Termux / macOS)
 
-```bash
-git clone https://github.com/ccxos/TikTor.git
 
-cd TikTor
-bash TikTor.sh
+``git clone https://github.com/ccxos/TikTor.git``
+
+``cd TikTor
+bash TikTor.sh``
 
 
 ---
