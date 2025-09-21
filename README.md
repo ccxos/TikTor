@@ -22,4 +22,8 @@ bash TikTor.sh
 chmod +x TikTor.sh && ./TikTor.sh
 ```
 
+- on Termux, Just Write this cmd after anything :
 
+```
+termux-setup-storage
+```
