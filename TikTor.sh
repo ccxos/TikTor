@@ -232,7 +232,7 @@ def full_start_sequence():
     print(MAGENTA + SIMPSON_ART + RESET)
     print()
     time.sleep(ASCII_DISPLAY_PAUSE)
-    print(DARK_RED + f"If u had a Problem , Text Me In Telegram : {GREEN} @binst" + RESET)
+    print(DARK_RED + f"If u had a Problem , Text Me on Telegram : {GREEN} @binst" + RESET)
     print()
     time.sleep(WELCOME_PAUSE)
 
