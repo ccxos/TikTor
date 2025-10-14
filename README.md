@@ -1,4 +1,4 @@
-![TikTor-Logo](assets/img/IMG_20251015_000049_955.jpg)
+![TikTor-Logo](assets/IMG_20251015_000529_242.png)
 
 
 
