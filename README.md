@@ -2,7 +2,7 @@
 
 
 
-# Quick start (Linux / Termux / macOS)
+# Quick start
 
 - Just, Clone this repository
 
